@@ -1,5 +1,5 @@
 ## About me
-A Chinese high school student who likes programming. Still learning new things...
+A Chinese college student who likes programming. Still learning new things...
 
 I belive technology can change the world. After learning something new, I'll write a blog post to share what I've learned (see [blog](https://blog.samhou.top/)).
 
