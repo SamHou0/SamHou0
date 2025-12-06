@@ -1,17 +1,27 @@
+> **Technology can and should change the world.**
+
+## Contact
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram%20Channel%20DM-PatriciaBySamHou-blue?style=social&logo=telegram&logoColor=%2326A5E4&link=https%3A%2F%2Ft.me%2FPatriciaBySamHou)](https://t.me/PatriciaBySamHou)
+[![Mail Badge](https://img.shields.io/badge/Mail-sam%40samhou.top-blue?link=mailto%3Asam%40samhou.top)](mailto:sam@samhou.top)
+
+
 ## About me
-A Chinese college student who likes programming. Still learning new things...
 
-I belive technology can change the world. After learning something new, I'll write a blog post to share what I've learned (see [blog](https://blog.samhou.top/)).
+A Chinese college student who likes programming. Studying Computer Science in SUFE, still learning new things...
 
-I'm trying to use programming to solve some lifelong problems, such as keeping focus without distraction.
+After learning something new, a blog post will be there to share what I've learned. See [Blog (Chinese)](https://blog.samhou.top/).
 
-I usually have some crazy (sometimes useless) ideas, and some of them are turned into interesting projects, like [this](https://github.com/SamHou0/AutoVol).
+Anime / Visual Novel fan. Writing programs to enhance the experience. See [VNGod (Chinese)](https://vngod.samhou.moe/)
+
+Always having some crazy (sometimes useless) ideas, and some of them are turned into interesting projects, like [this](https://github.com/SamHou0/AutoVol).
 
 ## Other hobbies
 - Play [osu!](https://osu.ppy.sh/users/32622349)
-- Write novels and stories (usually *doujin*, like *fanfiction*)
+- Write novels and stories (usually *doujin*, like *fanfiction*) [Read Here (Chinese)](https://novel.samhou.moe/)
 - Watch anime and play visual novels (check [here](https://bgm.tv/user/samhou))
 - Do some translation work
+- Draw some pictures (beginner, producing rubbish)
 
 ## Programming Languages
 - C#
