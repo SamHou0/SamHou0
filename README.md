@@ -43,7 +43,7 @@ Always having some crazy (sometimes useless) ideas, and some of them are turned 
 ## Motto
 *Sleep for a better life.*
 
-
+![Visitor Counter](https://count.samhou.moe/@github?name=github&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <!---
 SamHou0/SamHou0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
