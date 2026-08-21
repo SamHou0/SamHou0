@@ -3,7 +3,7 @@
 ## Contact
 
 [![Fediverse Badge](https://img.shields.io/badge/Contact%20On-Fediverse-blue?link=https%3A%2F%2Fsamhou.de%2F%40samhou)
-](https://samhou.de/@samhou)
+](https://clanna.dev/@samhou)
 [![Mail Badge](https://img.shields.io/badge/Mail-sam%40samhou.top-blue?link=mailto%3Asam%40samhou.top)](mailto:sam@samhou.top)
 
 
