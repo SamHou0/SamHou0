@@ -1,5 +1,3 @@
-> **Technology can and should change the world.**
-
 ## Contact
 
 [![Fediverse Badge](https://img.shields.io/badge/Contact%20On-Fediverse-blue?link=https%3A%2F%2Fsamhou.de%2F%40samhou)
@@ -11,7 +9,7 @@
 
 A Chinese college student who likes programming. Studying Computer Science in SUFE, still learning new things...
 
-After learning something new, a blog post will be there to share what I've learned. See [Blog (Chinese)](https://blog.samhou.top/).
+After learning something new, a blog post will be there to share what I've learned. See [Blog (Chinese)](https://blog.samhou.moe/).
 
 Anime / Visual Novel fan. Writing programs to enhance the experience. See [VNGod (Chinese)](https://vngod.samhou.moe/)
 
@@ -22,7 +20,6 @@ Always having some crazy (sometimes useless) ideas, and some of them are turned 
 - Write novels and stories (usually *doujin*, like *fanfiction*) [Read Here (Chinese)](https://novel.samhou.moe/)
 - Watch anime and play visual novels (check [here](https://bgm.tv/user/samhou))
 - Do some translation work
-- Draw some pictures (beginner, producing rubbish)
 
 ## Programming Languages
 - C#
